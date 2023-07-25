@@ -8,5 +8,9 @@ Oi meu nome é Gabriela Ferreira ![](https://user-images.githubusercontent.com/1
                   
    <p align="left"> 
                           
- <a href="https://www.github.com/Gabriela290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>### Distintivos<a href="https://github.com/Gabriela290" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela290&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000&h ide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- </p>
+ <a href="https://www.github.com/Gabriela290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
+ 
+ ### Distintivos
+  <p align="left"> 
+ <a href="https://github.com/Gabriela290" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela290&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000&h ide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> </p>
+ 
